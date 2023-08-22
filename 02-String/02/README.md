@@ -1,5 +1,5 @@
 
 จงหาความยาวของตัวแปร String ต่อไปนี้
-- 'Welcome to Thailand'
-- 'Don\'n be afraid\n'
-- 'สวัสดีประเทศไทย'
+- 'Welcome to Thailand' 19
+- 'Don\'n be afraid\n' 16
+- 'สวัสดีประเทศไทย' 15
